@@ -1,0 +1,22 @@
+{
+  "name": "mqtt_javascript",
+  "version": "1.0.0",
+  "description": "js mqtt",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mqtt",
+    "javascript"
+  ],
+  "author": "lintangwisesa",
+  "license": "ISC",
+  "dependencies": {
+    "@material-ui/core": "^4.12.4",
+    "mongodb": "^3.3.4",
+    "mosca": "^2.8.3",
+    "mqtt": "^3.0.0",
+    "mysql": "^2.18.1"
+  }
+}
